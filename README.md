@@ -1,0 +1,2 @@
+# apofms_project
+This Project deals with ANDHRA PRADESH ONLINE FANAICIAL MANAGEMENT SYSTEMS
